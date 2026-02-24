@@ -1,9 +1,16 @@
 {
-  "name": "Brokesmp-Bot",
+  "name": "broke-smp-bot",
   "version": "1.0.0",
+  "description": "BROKE SMP Discord bot for announcements, rules, and concept",
   "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aditya",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
   }
-
 }

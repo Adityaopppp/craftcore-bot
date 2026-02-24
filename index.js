@@ -105,6 +105,11 @@ Only active players get access
 • PvP is allowed outside protected zones  
 • No griefing player bases  
 • No stealing from claims or shops  
+• No breaking or destroying spawn
+• No fight in spawn while building
+• No commands during combat
+• No combat log
+• Not going end before endwar
 
 💰 **Economy**  
 • No scamming in trades  
@@ -130,3 +135,4 @@ Severe violations → Instant ban`
 });
 
 client.login(process.env.TOKEN);
+
